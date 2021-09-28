@@ -6,3 +6,4 @@
 4. More on Python Variables (Memory allocation)
 5. Data types in Python
 6. Operators in Python
+7. Number System Conversion in Python
