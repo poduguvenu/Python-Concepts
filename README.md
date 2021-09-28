@@ -7,3 +7,4 @@
 5. Data types in Python
 6. Operators in Python
 7. Number System Conversion in Python
+8. Bitwise Operators in Python
