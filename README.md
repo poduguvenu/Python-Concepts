@@ -12,3 +12,4 @@
 10. User Input
 11. Python Functions - Primes Working
 12. Python Class - Working
+13. Python Strings - Interesting Facts
