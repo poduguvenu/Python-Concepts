@@ -18,3 +18,4 @@
 16. Python - type() & id() Methods Working
 17. Python Conditional Statements
 18. Python Conditional Operators
+19. Python Ternary Operator
