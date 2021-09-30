@@ -17,3 +17,4 @@
 15. Python Sequences - Lists, Tuples, Range, Dictionaries
 16. Python - type() & id() Methods Working
 17. Python Conditional Statements
+18. Python Conditional Operators
