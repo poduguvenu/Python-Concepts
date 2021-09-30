@@ -14,3 +14,4 @@
 12. Python Class - Working
 13. Python Strings - Interesting Facts
 14. Python Datatypes - Facts
+15. Python Sequences - Lists, Tuples, Range, Dictionaries
