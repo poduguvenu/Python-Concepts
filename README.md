@@ -11,3 +11,4 @@
 9. Importing math functions
 10. User Input
 11. Python Functions - Primes Working
+12. Python Class - Working
