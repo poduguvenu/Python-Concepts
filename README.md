@@ -22,3 +22,4 @@
 20. Python Bitwise Operators
 21. Python Loops
 22. Python Functions
+23. Python Data Structures
