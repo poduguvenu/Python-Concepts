@@ -13,3 +13,4 @@
 11. Python Functions - Primes Working
 12. Python Class - Working
 13. Python Strings - Interesting Facts
+14. Python Datatypes - Facts
