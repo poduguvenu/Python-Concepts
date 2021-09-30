@@ -16,3 +16,4 @@
 14. Python Datatypes - Facts
 15. Python Sequences - Lists, Tuples, Range, Dictionaries
 16. Python - type() & id() Methods Working
+17. Python Conditional Statements
