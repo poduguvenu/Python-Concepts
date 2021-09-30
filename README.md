@@ -20,3 +20,4 @@
 18. Python Conditional Operators
 19. Python Ternary Operator
 20. Python Bitwise Operators
+21. Python Loops
