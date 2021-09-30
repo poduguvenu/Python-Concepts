@@ -10,3 +10,4 @@
 8. Bitwise Operators in Python
 9. Importing math functions
 10. User Input
+11. Python Functions - Primes Working
