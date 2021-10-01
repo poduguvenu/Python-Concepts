@@ -23,3 +23,4 @@
 21. Python Loops
 22. Python Functions
 23. Python Data Structures
+24. Python Class
