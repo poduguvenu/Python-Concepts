@@ -28,3 +28,4 @@
 26. Python Write File With Open
 27. Python Exception Handling
 28. python Classes
+29. Python Functions
