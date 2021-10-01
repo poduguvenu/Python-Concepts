@@ -24,3 +24,5 @@
 22. Python Functions
 23. Python Data Structures
 24. Python Class
+25. python Read File With Open
+26. Python Write File With Open
