@@ -30,3 +30,5 @@
 28. python Classes
 29. Python Functions
 30. Python HTTP and Requests
+31. Pandas
+32. Numpy
