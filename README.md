@@ -32,3 +32,4 @@
 30. Python HTTP and Requests
 31. Pandas
 32. Numpy
+33. Python Class Methods & Object Data
