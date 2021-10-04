@@ -35,3 +35,5 @@
 33. Python Class Methods & Object Data
 34. Python Iterator Objects
 35. Python Handling Exceptions
+36. Python String Objects, Methods, Formatting and split() & join()
+37. 
