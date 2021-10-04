@@ -33,3 +33,5 @@
 31. Pandas
 32. Numpy
 33. Python Class Methods & Object Data
+34. Python Iterator Objects
+35. 
