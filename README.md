@@ -42,3 +42,5 @@
 40. Reading SQL Data
 41. Reading NoSQL Data
 42. Reading SQL Data Demo
+43. Exploratory Data Analysis
+44. 
