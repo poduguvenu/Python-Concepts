@@ -40,3 +40,5 @@
 38. **Python Built-in Functions
 39. Python Modules
 40. Reading SQL Data
+41. Reading NoSQL Data
+42. 
