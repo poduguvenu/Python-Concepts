@@ -44,3 +44,4 @@
 42. Reading SQL Data Demo
 43. Exploratory Data Analysis
 44. Demo Feature Engineering
+45. Demo Hypothesis Testing
